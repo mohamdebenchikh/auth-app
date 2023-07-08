@@ -1,0 +1,19 @@
+{
+    "name": "m/auth-app",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/config.php",
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Mohamde ben Chikh",
+            "email": "mohamdebenchikh.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
